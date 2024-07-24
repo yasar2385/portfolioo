@@ -9,9 +9,11 @@
 /coverage
 
 
+/build
+
 
 # production
-/build
+
 /node_modules
 
 # misc
