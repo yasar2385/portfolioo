@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7ef81863.css",
+    "main.js": "/portfolio/static/js/main.c4d7572e.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/react.png": "/portfolio/static/media/react.443ec513ef0752536b8a.png",
+    "static/media/nodejs.png": "/portfolio/static/media/nodejs.814d6a6d2b9a17238981.png",
+    "static/media/angular-400.png": "/portfolio/static/media/angular-400.e8811a1ef033fc92692d.png",
+    "static/media/html_400.png": "/portfolio/static/media/html_400.e356559c33bb12e86ebe.png",
+    "static/media/java-400.png": "/portfolio/static/media/java-400.54cd302ef0d853b4fe28.png",
+    "static/media/css_480.png": "/portfolio/static/media/css_480.8aaf7833370a6845139c.png",
+    "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/powershell-400.png": "/portfolio/static/media/powershell-400.3d42d16af3e651c301e8.png",
+    "static/media/revicons.woff": "/portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/portfolio/index.html",
+    "main.7ef81863.css.map": "/portfolio/static/css/main.7ef81863.css.map",
+    "main.c4d7572e.js.map": "/portfolio/static/js/main.c4d7572e.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef81863.css",
+    "static/js/main.c4d7572e.js"
+  ]
+}

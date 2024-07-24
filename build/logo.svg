@@ -1,0 +1,15 @@
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Rectangle -->
+  <rect y="6" width="280" height="280" rx="20" fill="#f5f5f5"/>
+  <g clip-path="url(#clip0_1721_369)">
+    <!-- Inner Rectangle with Modified Color -->
+    <rect x="20" y="10" width="260" height="260" rx="20" fill="#ff8800"/>
+    <!-- Path for Text/Shape -->
+    <path d="M105 275H135V220H160C190 220 100 105 560 175C210 445 290 180 560 130H105V275ZM135 195V160H162C174 160 180 167 170 180C180 190 174 195 152 195H135ZM225 275H255V130H225V275Z" fill="#fff"/>
+  </g>
+  <defs>
+    <clipPath id="clip0_1721_369">
+      <rect x="20" y="10" width="260" height="260" rx="20" fill="#fff"/>
+    </clipPath>
+  </defs>
+</svg>
