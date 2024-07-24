@@ -26,10 +26,18 @@
     padding: 0;
     text-align: center;
   }
+  .developer-info p a {
+	  text-decoration:none;
+	  color:blue;
+  }
+  .developer-info p a:hover {
+	  text-decoration:underline;
+	  color:red;
+  }
   
   .developer-info li,.developer-info p {
     margin-bottom: 0.5rem;
-    color:blue
+    color:black
   }
   
   #contact-form {

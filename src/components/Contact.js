@@ -35,11 +35,11 @@ const ContactForm = () => {
         <div className="developer-info">
           <h2>Developer Information</h2>
           {/* <ul> */}
-            <p><strong>Email:</strong> john.doe@example.com</p>
-            <p><strong>Phone:</strong> (123) 456-7890</p>
-            <p><strong>Location:</strong> New York, NY</p>
-            <p><strong>GitHub:</strong> github.com/johndoe</p>
-            <p><strong>LinkedIn:</strong> linkedin.com/in/johndoe</p>
+            <p><strong>Email:</strong> yasar2385@yahoo.in</p>
+            <p><strong>Phone:</strong> (044) 4803 6366</p>
+            <p><strong>Location:</strong> Chennai, TamilNadu</p>
+            <p><strong>GitHub:</strong> <a target="_blank" href="https://github.com/yasar2385">github.com/yasar2385</a></p>
+            <p><strong>LinkedIn:</strong> <a  target="_blank" href="https://www.linkedin.com/in/yasar-arabath-6053399a/">yasar-arabath-6053399a</a></p>
           {/* </ul> */}
           <button onClick={() => scrollToSection('hero')} style={{marginTop:'10rem'}}>Goto Top</button> 
         </div>
